@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://open.spotify.com/user/echofan360">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=echofan360&count=5" alt="Spotify recently played"  />
+  </a>
+</div>

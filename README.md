@@ -18,5 +18,16 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://open.spotify.com/user/echofan360">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=echofan360&count=5" alt="Spotify recently played"  />
+    <!--
+    Markdown code snippet:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=echofan360)
+For custom count (1 ≤ {count} ≤ 10):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=echofan360&count={count})
+For custom width (300 ≤ {width} ≤ 1000):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=echofan360&width={width})
+For unique tracks :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=echofan360&unique={true|1|on|yes})
+-->
+    
   </a>
 </div>
